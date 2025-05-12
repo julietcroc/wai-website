@@ -148,14 +148,14 @@ Generally, you transcribe all speech and relevant non-speech sound (such as: bab
 
 For captions:
 
-* Captions are one or two lines. Generally is is best to keep them under 32 characters per line.
+* Captions are one or two lines. Generally, it is best to keep them under 32 characters per line.
 * Put a new sentence on a new line.
 * If you need to break a sentence into multiple segments, break it at a logical phrase.
 
 Captions also include the time that each phrase will be displayed. Most people use tools to develop and refine captions.
 
-Learn more about captions in another page of this resource: [Captions/Subtitles](/media/av/captions/).
+Learn more about captions on another page of this resource: [Captions/Subtitles](/media/av/captions/).
 
 ## More on Transcripts
 
-Learn more about transcripts in another page of this resource: [Transcripts](/media/av/transcripts/).
+Learn more about transcripts on another page of this resource: [Transcripts](/media/av/transcripts/).
